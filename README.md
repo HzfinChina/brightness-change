@@ -32,11 +32,5 @@ interval = 0
 format-prefix = "☀ "
 format-suffix = "%"
 ```
-
-[module/backlight]
-type = custom/script
-exec = ~/.config/polybar/backlight.sh
-tail = true
-interval = 0
-format-prefix = "☀ "
-format-suffix = "%"
+preview:
+![preview](https://raw.githubusercontent.com/HzfinChina/brightness-change/main/preview.png)
